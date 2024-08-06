@@ -1,0 +1,86 @@
+body{
+    
+       background-color: #f6f6f6;
+    
+}
+.inear-gradient{
+    background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, hsl(204, 91%, 69%), #52cffe, #41dfff, #46eefa, #5ffbf1);
+    padding-bottom: 50px;padding-left: 40px;padding-top: 10px;
+
+}
+.btn{
+    padding: 5px 10px;
+    background-image: linear-gradient(to right top, #d2539b,  #ba83ca, #aa8fd8, #9a9ae1);
+    box-shadow: 10px 10px 14px 1px rgba(00,00,00,0.2);border-radius: 10px;text-decoration: none;
+}
+.btn1{
+    
+    padding: 5px 10px;
+    background-image: linear-gradient(to right top, #d2539b);
+   border-radius: 10px;
+   border: 1px black solid;
+}
+.box{
+    box-shadow: 10px 10px 14px 1px rgba(00,00,00,0.2);
+}
+.box:hover{
+    box-shadow: 0px 0px 0px black;
+}
+.text-font{
+       font-family: Arial, Helvetica, sans-serif;
+       font-weight: 300;
+}
+.heading-font{
+    color: #d04d98;
+    text-shadow: 0.5px 0.5px 0px #52cffe;
+    font-weight: 400;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.heading-font:hover{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+       transition: 2s;
+      
+}
+.text-decore{
+    text-decoration: none;
+}
+
+.main-heading{
+    font-weight: 900;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 27px;color:  #a422cb;
+    margin-right: 380px;background-color: #a144bd;
+}
+
+.margin{
+    margin-left: 50px;
+}
+.text-align{
+    text-align: center;
+}
+.color{
+    color:  #b978cd;
+}
+.font1{
+    color:#ac3b61;
+    text-align: center;
+    font-size: 18px;
+ }
+ .font1:hover{
+    text-decoration-line: underline;
+ }
+ .font2{
+    
+        color:#ac3b61;
+        text-align: center;
+        font-size: 15px;
+     }
+ .font2:hover{
+    text-decoration-line: underline;
+ }
+
+.linearGradient{
+    background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, hsl(204, 91%, 69%), #52cffe, #41dfff, #46eefa, #5ffbf1);
+}
