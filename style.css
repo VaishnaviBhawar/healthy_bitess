@@ -1,6 +1,6 @@
 body{
     
-       background-color: #fdfbfb;
+       background-color: #fdf7f7;
     
 }
 .inear-gradient{
@@ -73,6 +73,9 @@ body{
  .font1:hover{
     text-decoration-line: underline;
  }
+ .bg-color{
+    background-color:white;
+}
  .font2{
     
         color:#ac3b61;
