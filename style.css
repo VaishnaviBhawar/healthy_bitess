@@ -1,6 +1,6 @@
 body{
     
-       background-color: #f6f6f6;
+       background-color: #fdfbfb;
     
 }
 .inear-gradient{
@@ -8,17 +8,13 @@ body{
     padding: 20px;border: #a422cb 1px dotted;
 
 }
-.btn{
-    padding: 5px 10px;
-    background-image: linear-gradient(to right top, #d2539b,  #ba83ca, #aa8fd8, #9a9ae1);
-    box-shadow: 10px 10px 14px 1px rgba(00,00,00,0.2);border-radius: 10px;text-decoration: none;
-}
+
 .btn1{
     
     padding: 5px 10px;
-    background-image: linear-gradient(to right top, #d2539b);
+    background-image: linear-gradient(to right top, #d2539b,  #ba83ca, #aa8fd8, #9a9ae1);
    border-radius: 10px;
-   border: 1px black solid;
+   border: 2px rgb(245, 243, 243) solid;
 }
 .box{
     box-shadow: 10px 10px 14px 1px rgba(00,00,00,0.2);
@@ -53,7 +49,13 @@ body{
     font-size: 27px;color:  #a422cb;
     margin-right: 380px;background-color: #a144bd;
 }
-
+.navbar{
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    } 
 .margin{
     margin-left: 50px;
 }

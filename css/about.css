@@ -1,3 +1,4 @@
+
 .main-heading{
     font-weight: 900;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -6,7 +7,10 @@
 }
 
 
-
+.position{
+    position: relative;
+    top: 120px;
+}
 
 
 input{
@@ -54,138 +58,12 @@ input{
  border-radius:20px 20px 0px 0px;
 
 }
-.child3{
 
-height: 400px;
-width:100%;
  
-        
-    display: flex;
-    flex-direction: center;
- justify-content:center;
- align-items: start;
  
- flex-wrap: wrap;
- 
- }
- .div6789{
-  padding-top: 30px;
-  height: 640px;
-  width: 80%;
-  display: flex;
-    flex-direction: center;
- justify-content:center;
- align-items: start;
- 
- flex-wrap: wrap;
- }
- .heading6789{
-  text-transform: capitalize;
-
-top:5px;
-bottom: 10px;
-color:white;
-
-font-size: 35px;
-
-}
-
-     .div6{
-    
-      margin-left:20px ;
-      margin-right: 20px;
- 
-      
-       border-radius:15;
-      height: 280px;width: 560px;
-      background-image:url("./../images/shopbycategory/first.webp") ;
-      background-size: cover;
-     
-     }
-     .div6:hover{
-      background-image:url("./../images/shopbycategory/hower1.jpg") ;
-      background-size: cover;
-      transition: 0.5s;
-      
-     }
-     .div7{   
-      margin-left:20px ;
-      margin-right: 20px; 
- 
-      
-       border-radius:15;
-      height: 280px;width: 560px;
-    
-      background-image:url("./../images/shopbycategory/sec.webp") ;
-      background-size: cover;
-     }
-     .div7:hover{
-      background-image:url("./../images/shopbycategory/hower2.jpg") ;
-      background-size: cover;
-      transition: 0.5s;
-     }
-     .div8{
-      margin-left:20px ;  
-      margin-right: 20px;
- 
-      
-       border-radius:15;
-   
-      height: 280px;width: 560px;
-      background-image:url("./../images/shopbycategory/third.webp") ;
-      background-size: cover;
-     }
-     .div8:hover{
-      background-image:url("./../images/shopbycategory/hower3.jpg") ;
-      background-size: cover;
-      transition: 0.5s;
-     }
-     .div9{
-      margin-left:20px ;   
-      margin-right: 20px;
- 
-      
-       border-radius:15;
-        
-      height: 280px;width: 560px;
-      background-image:url("./../images/shopbycategory/fourth.webp") ;
-      background-size: cover;
-     }
-     .div9:hover{
-      background-image:url("./../images/shopbycategory/hower4.jpg") ;
-      background-size: cover;
-      transition: 0.5s;
-     }
-     
-
-
-
-     .textdec{
-      text-decoration: none;
-     }
-    .textdec:hover{
-      text-decoration-line: underline;
-    }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  footer {
   
+  margin-top: 1100px;
   background: #333;
   color: #fff;
   padding: 5px 0;
@@ -219,11 +97,17 @@ font-size: 35px;
 .footer-bottom {
   margin-top: 5px;color: #c05a5a;text-align: center;background-color: #f6eaea;
  
+ 
 }
 
 .footer-bottom p {
   margin: 0;
 }
+.top{
+    margin-top: 140px;
+   
+}
+
 
 .child4{
 
@@ -250,7 +134,7 @@ font-size: 35px;
   margin-left: 20px;
   }
   .card4{
-    margin-top: 40px;
+   
     margin-left: 700px;
     width: 150px;
     height: 30px;

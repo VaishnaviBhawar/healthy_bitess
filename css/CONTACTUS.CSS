@@ -1,0 +1,60 @@
+.navbar1{
+    overflow: hidden;
+    background-color: #333;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    }
+    .contact-font-waight{
+       font-weight: bold;
+    }
+    
+   
+    .contact-heading{
+        background-color:white;
+        font-weight: lighter;
+    
+    }
+    .margin{
+        margin-top: 50px;
+        margin-bottom: 40px;
+    }
+   
+   
+   .contact-card{
+   position: absolute;
+   bottom :-300px;
+   
+    width:600px;
+  height: 780px;
+  border-radius:20px 20px 20px 20px;
+  margin-left: 20px;
+  }
+  .contact{
+    position: relative;
+    top: 20px;
+  margin-top: 50px;
+
+    height: 800px;
+    width:35%;
+     
+           
+        display: flex;
+        flex-direction: center;
+     justify-content:center;
+     align-items: start;
+     
+     flex-wrap: wrap;
+     
+     }
+     .contact-card:hover{
+        top: 30px;
+        transition: 10s;
+        transition-duration: 7s;
+     }
+     .contact-font{
+        font-weight: lighter;
+        font-size: 20px;color: azure;padding-left: 30px;padding-right: 20px;
+        text-align: left;
+     }
+     
