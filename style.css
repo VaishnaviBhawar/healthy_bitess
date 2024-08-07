@@ -5,7 +5,7 @@ body{
 }
 .inear-gradient{
     background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, hsl(204, 91%, 69%), #52cffe, #41dfff, #46eefa, #5ffbf1);
-    padding-bottom: 50px;padding-left: 40px;padding-top: 10px;
+    padding: 20px;border: #a422cb 1px dotted;
 
 }
 .btn{
@@ -83,4 +83,7 @@ body{
 
 .linearGradient{
     background-image: linear-gradient(to right top, #d16ba5, #c777b9, #ba83ca, #aa8fd8, #9a9ae1, #8aa7ec, #79b3f4, hsl(204, 91%, 69%), #52cffe, #41dfff, #46eefa, #5ffbf1);
+}
+.fontred{
+    color:#ac3b61;
 }

@@ -4,6 +4,17 @@
     font-size: 27px;color: white;
     margin-right: 380px;background-color: #ba83ca;
 }
+.navbar{
+overflow: hidden;
+background-color: #333;
+position: fixed;
+top: 0;
+width: 100%;
+}
+
+
+
+
 input{
     width: 20%;
   padding: 7px 13px;
@@ -141,15 +152,23 @@ width:100%;
      }
      .heading6789{
           text-transform: capitalize;
-      position: sticky;
+      position: static;
       top:5px;
       bottom: 10px;
       color:white;
       
       font-size: 35px;
      }
+       
 
 
+
+     .textdec{
+      text-decoration: none;
+     }
+    .textdec:hover{
+      text-decoration-line: underline;
+    }
 
 
 
@@ -263,3 +282,20 @@ width:100%;
  border: 1px  #ecb0d2 solid;
 }
   
+
+.card5{
+   
+  width:280px;
+
+height: 370px;
+box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+
+border-radius:20px 20px 20px 20px;
+margin-left: 15px;margin-right:15px;margin-top: 20px;
+}
+.card5:hover{
+
+ 
+  transition: 1s;
+
+}
