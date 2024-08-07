@@ -175,8 +175,8 @@ margin-left: 15px;margin-right:15px;margin-top: 20px;
 }
 .card5:hover{
 
- 
-  transition: 1s;
+ border:#a1edfd solid 2px;
+  transition: 3s;
 
 }
 .btn6{
