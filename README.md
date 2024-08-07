@@ -51,7 +51,7 @@ Since HealthBite is a static HTML website, you can run it directly in your web b
 
 3. **The website will open in your default web browser, and you can navigate through the various pages.**
 
-![Scrrenshots](./screenshort/Screenshot%20(357).png)
+![Scrrenshots](./screenshort/Screenshot%20(373).png)
 
 ## Usage
 
@@ -70,23 +70,23 @@ The HealthyBite project is structured as follows:
 
 - `index.html`: The main landing page of the website.
 
-![Scrrenshots](./screenshort/Screenshot%20(357).png)
+![Scrrenshots](./screenshort/Screenshot%20(373).png)
 
 - `about.html`: A page providing information about HealthBite and its mission.
 
-![Scrrenshots](./screenshort/Screenshot%20(358).png)
+![Scrrenshots](./screenshort/Screenshot%20(374).png)
 
 - `contact.html`: A page with contact information and a contact form.
 
-![Scrrenshots](./screenshort/Screenshot%20(359).png)
+![Scrrenshots](./screenshort/Screenshot%20(377).png)
 
 - `privacy-policy.html`: The Privacy Policy page outlining how user data is handled.
 
-![Scrrenshots](./screenshort/Screenshot%20(364).png)
+![Scrrenshots](./screenshort/Screenshot%20(378).png)
 
 - `terms-of-service.html`: The Terms of Service page outlining the rules and regulations for using the website.
 
-![Scrrenshots](./screenshort/Screenshot%20(362).png)
+![Scrrenshots](./screenshort/Screenshot%20(379).png)
 - 
 ## Contributing
 
